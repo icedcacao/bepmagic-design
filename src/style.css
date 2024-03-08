@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: DelaGothic;
+    src: url("/fonts/DelaGothicOne-Regular.ttf") format("truetype");
+  }
+  @font-face {
+    font-family: Arimo;
+    src: url("/fonts/Arimo-VariableFont_wght.ttf") format("truetype");
+  }
+}

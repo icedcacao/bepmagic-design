@@ -1,6 +1,6 @@
 <template>
   <div
-    class="mx-auto max-w-screen-2xl space-y-4 px-4 py-4 sm:px-8 sm:py-8 lg:space-y-8 lg:py-12 xl:py-16"
+    class="mx-auto max-w-screen-2xl space-y-4 px-4 py-4 sm:px-8 sm:py-8 lg:space-y-12 lg:py-12 xl:py-16"
   >
     <h1 class="text-center font-dela text-3xl sm:text-4xl lg:text-5xl">
       IMAGE GALLERY

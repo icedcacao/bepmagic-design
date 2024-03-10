@@ -3,13 +3,15 @@ export default {
   content: ["./index.html", "./src/**/*.{vue,js,ts,jsx,tsx}"],
   theme: {
     colors: {
-      yellow: "#F3E378",
+      yellow: "#e7cf26",
+      "yellow-test": "#edd952",
       "white-cream": "#fffbe6",
-      orange: "#ff7850",
+      orange: "#F96539",
+      "test-green": "#81a76c",
       white: "#ffffff",
       black: "#000000",
       "light-green": "#d4e7c5",
-      "dark-green": "#86A973",
+      "dark-green": "#81a76c",
     },
     extend: {
       fontFamily: {

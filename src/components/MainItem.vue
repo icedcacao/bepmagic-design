@@ -65,7 +65,7 @@
     </div>
     <div class="mt-6 flex justify-center lg:mt-10">
       <button
-        class="border-[1.5px] border-black bg-orange px-6 py-1 text-xl font-semibold text-white sm:text-2xl md:px-12 md:py-2 xl:border-2 xl:text-3xl"
+        class="border-[1.5px] border-black bg-orange px-6 py-1 text-xl font-semibold text-white duration-150 hover:bg-orange/75 sm:text-2xl md:px-12 md:py-2 xl:border-2 xl:text-3xl"
       >
         ADD TO CART
       </button>
